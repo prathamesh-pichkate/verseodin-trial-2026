@@ -40,6 +40,9 @@ What I reviewed or rewrote line-by-line:
 
 In short: AI helped with speed and drafts; final logic, constraints alignment, and acceptance decisions were manually verified.
 
+## Feature working:
+- Video link : https://youtu.be/IVTxQj2wG64
+
 ## What I'd do in week 2
 
 - Add focused unit tests for `deriveActions` determinism, filter composition, and persistence merge behavior.
