@@ -30,7 +30,7 @@ Feature 2 (`/actions`): I implemented an Action Centre that loads `monitoring-ev
 
 ## AI tool usage
 
-I used AI tools (GitHub Copilot/ChatGPT) as a coding assistant for boilerplate acceleration, refactor suggestions, and TypeScript narrowing ideas. I used them to speed up UI scaffolding (Tailwind structure), suggest derivation/grouping approaches, and draft utility logic, then I manually reviewed and edited all generated code before keeping it.
+I used AI tools (GitHub Copilot) as a coding assistant for boilerplate acceleration, refactor suggestions, and TypeScript narrowing ideas. I used them to speed up UI scaffolding (Tailwind structure), suggest derivation/grouping approaches, and draft utility logic, then I manually reviewed and edited all generated code before keeping it.
 
 What I reviewed or rewrote line-by-line:
 - Reworked traffic processing to aggregate once and avoid repeated raw-array filtering on legend toggles.
